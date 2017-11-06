@@ -1,1 +1,3 @@
  this is my second text file
+hello
+how ru
